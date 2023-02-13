@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HY16384
-- 👀 I’m interested in AI, CG, AndroidApps, IOSApps, etc
+- 👀 I’m interested in AI, Web, CG, AndroidApps, IOSApps, etc
 - 🌱 I’m currently learning about creating AndroidApps.
 
 <!---
