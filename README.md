@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HY16384
 - 👀 I’m interested in AI, Web, CG, AndroidApps, IOSApps, etc
-- 🌱 I’m currently learning about creating AndroidApps.
+- 🌱 I’m currently learning about creating AI.
 
 <!---
 HY16384/HY16384 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
